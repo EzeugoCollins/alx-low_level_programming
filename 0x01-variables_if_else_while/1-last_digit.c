@@ -14,7 +14,6 @@
 int main(void)
 {
    int n;
-
 int lastnum;
 
 srand(time (0));
