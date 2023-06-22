@@ -39,5 +39,5 @@ int main(void)
 	fib1_half2 = fib2_half2;
 	}
 	printf("\n");
+	return (0);
 }
-
